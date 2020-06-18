@@ -2,6 +2,7 @@
  This is a simple and amazing wallet app. Just UI.
  
  ## Features :dart:
+ * [x] Free & Open Source
  
 
 ![](assets/images/screen.png)
