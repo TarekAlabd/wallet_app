@@ -3,6 +3,7 @@
  
  ## Features :dart:
  * [x] Free & Open Source
+ * [x] Very Easy to use
  
 
 ![](assets/images/screen.png)
