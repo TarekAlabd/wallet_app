@@ -10,6 +10,7 @@
  * [ ] Logic Code
  * [ ] SQLite Database
  * [ ] Push Notifications
+ * [ ] Enable the user add new expenses
  
 
 ## Screenshots
