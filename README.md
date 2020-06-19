@@ -9,6 +9,7 @@
  * [ ] Home Page
  * [ ] Logic Code
  * [ ] SQLite Database
+ * [ ] Push Notifications
  
 
 ## Screenshots
