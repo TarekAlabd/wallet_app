@@ -8,6 +8,7 @@
  * [x] A good user interface
  * [ ] Home Page
  * [ ] Logic Code
+ * [ ] SQLite Database
  
 
 ## Screenshots
