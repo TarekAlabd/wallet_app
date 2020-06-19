@@ -7,6 +7,7 @@
  * [x] Cross Platform App (Android - IOS)
  * [x] A good user interface
  * [ ] Home Page
+ * [ ] Logic Code
  
 
 ## Screenshots
